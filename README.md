@@ -95,16 +95,6 @@ e os cards em progresso sem dono.
 
 ---
 
-## Papéis que rotacionam
-
-Trocam a cada sprint, na Planning, e ficam registrados na issue da cerimônia.
-
-- **Tech Lead da semana** — decide os cortes técnicos em disputa e **defende as decisões
-  no encontro seguinte**. Não é quem programa mais; é quem responde "por que foi feito assim".
-- **Revisor da semana** — revisa pelo menos um PR de cada outra dupla.
-
----
-
 ## Avaliação
 
 A nota é individual e sai do **seu rastro nos repositórios**, não do produto final:
